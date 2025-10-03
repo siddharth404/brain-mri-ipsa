@@ -2,7 +2,7 @@
 
 This repository contains:
 - **Full Jupyter Notebook**: end-to-end pipeline for brain MRI classification (EDA, preprocessing, CNN training, evaluation, Grad-CAM).
-- **Trained Model**: `best_model.h5` (place it here manually, too large for repo).
+- **Trained Model**: `best_model.h5` (place it in the root of this folder).
 - **Streamlit Web App**: `streamlit_app.py` for interactive predictions + Grad-CAM visualization.
 - **requirements.txt**: dependencies for running the app.
 
